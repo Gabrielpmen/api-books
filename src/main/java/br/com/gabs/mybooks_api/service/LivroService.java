@@ -1,6 +1,6 @@
-package br.com.seunome.mybooksapi.service;
+package br.com.gabs.mybooks_api.service; // <-- CORRIGIDO
 
-import br.com.seunome.mybooksapi.model.Livro;
+import br.com.gabs.mybooks_api.model.Livro; // <-- CORRIGIDO
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;

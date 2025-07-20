@@ -1,5 +1,4 @@
-package br.com.seunome.mybooksapi.model;
-
+package br.com.gabs.mybooks_api.model;
 import java.util.UUID;
 
 // Esta é uma classe POJO (Plain Old Java Object).
